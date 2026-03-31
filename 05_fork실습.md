@@ -15,12 +15,12 @@
 ### 2단계 — 내 파일 만들기
 내 Fork 저장소에서:
 1. `Add file` → `Create new file`
-2. 파일명: `contributors/내이름.md` (예: `contributors/홍길동.md`)
+2. 파일명: `contributors/내이름.md` (예: `contributors/김북곽.md`)
    - `contributors/` 를 앞에 붙이면 자동으로 폴더가 생겨요!
 3. 아래 내용 입력:
 
 ```markdown
-# 홍길동
+# 김북곽
 
 한마디: "오픈소스의 거인이 될 거예요!"
 ```
